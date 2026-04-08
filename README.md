@@ -1,5 +1,7 @@
 # Build a Random Quote Machine
 
+[![Deploy to GitHub Pages](https://github.com/BenOnSocial/random-quote-machine/actions/workflows/deploy.yml/badge.svg)](https://github.com/BenOnSocial/random-quote-machine/actions/workflows/deploy.yml)
+
 This project is part of my [Front-End Development Libraries V8 certification from freeCodeCamp](https://www.freecodecamp.org/certification/benonsocial/front-end-development-libraries).
 
 ## Objective

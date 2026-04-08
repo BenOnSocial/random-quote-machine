@@ -4,6 +4,8 @@
 
 This project is part of my [Front-End Development Libraries V8 certification from freeCodeCamp](https://www.freecodecamp.org/certification/benonsocial/front-end-development-libraries).
 
+https://github.com/user-attachments/assets/95fa6993-bd44-450d-9dc7-57b13fbb5c5d
+
 ## Objective
 
 Build an app that is functionally similar to this: https://random-quote-machine.freecodecamp.rocks/.
